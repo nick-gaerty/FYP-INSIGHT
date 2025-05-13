@@ -1,0 +1,23 @@
+Chair
+Sofa
+Table
+bath unit
+bed
+book
+bottle
+cabinet
+couch
+cup
+cupboard
+curtains
+dining table
+door
+keyboard
+laptop
+mouse
+shower cabinet
+sideboard
+trashbin
+tv unit
+wardrobe
+window
